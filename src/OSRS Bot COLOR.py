@@ -2,7 +2,6 @@ from controller.bot_controller import BotController, MockBotController
 from model import *
 from typing import List
 from view import *
-import customtkinter
 import tkinter
 
 
